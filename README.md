@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=000000&width=420&lines=A+Noob+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+On+Telegram+Bot+Api%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/Hentai_Lover_Boy"><img src="https://telegra.ph/file/cc266ca59ed3926df933b.jpg" alt="Priyansh"></a>
+  <a href="https://t.me/Hentai_Lover_Boy"><img src="https://telegra.ph/file/b72acb39bab944391a387.jpg" alt="Priyansh"></a>
 <a href="https://telegram.me/Hentai_Lover_Boy">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
